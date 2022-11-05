@@ -41,6 +41,7 @@ largest number of customer who have income more than 200K is graduate and least 
 
 ------------------------ 
 
+
 * Marital status among customers:
 largest number of customer is Married 
 
@@ -77,18 +78,3 @@ and the females between 50 and 60 transactions and there is an outliers that is 
 
 ------------------------ 
 
-* Card Category & Transactions Count:
-customer with higher card category have larger number of transactions.
-
------------------------- 
-
-* Education Level & Income Category:
-customer who is graduate have larger number of accounts.
-largest number of customer who have income more than 200K is graduate and least number is doctorate
-
------------------------- 
-
-* Marital status among customers:
-largest number of customer is Married 
-
------------------------- 
