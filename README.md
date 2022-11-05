@@ -30,7 +30,22 @@ dataset used in this project (bank customers) contains:
 
 ## Insights
 
-* Attrition Flag :  The chart for the existing customer and attrited customer 
+* Card Category & Transactions Count:
+customer with higher card category have larger number of transactions.
+
+------------------------ 
+
+* Education Level & Income Category:
+customer who is graduate have larger number of accounts.
+largest number of customer who have income more than 200K is graduate and least number is doctorate
+
+------------------------ 
+
+* Marital status among customers:
+largest number of customer is Married 
+
+------------------------ 
+* Attrition Flag : The chart for the existing customer and attrited customer 
 the existing customer is about 7500 where the arrive is 1500.
 
 -----------------------
@@ -59,3 +74,21 @@ the females has the highest density of credit limit than the males.
 * income category & avg transaction amount
 when the income category is less than 40k the males has the avg total transaction count between 45 and 60 
 and the females between 50 and 60 transactions and there is an outliers that is 190 count of the transactions****
+
+------------------------ 
+
+* Card Category & Transactions Count:
+customer with higher card category have larger number of transactions.
+
+------------------------ 
+
+* Education Level & Income Category:
+customer who is graduate have larger number of accounts.
+largest number of customer who have income more than 200K is graduate and least number is doctorate
+
+------------------------ 
+
+* Marital status among customers:
+largest number of customer is Married 
+
+------------------------ 
