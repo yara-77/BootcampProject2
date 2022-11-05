@@ -14,18 +14,18 @@
 
 ## Dataset Overview
 dataset used in this project (bank customers) contains:
-1- Attrition Flag : if the customer exist or not 
-2- Customer Age
-3- Gender
-4- Dependent count: number of dependent
-5- Education Level 
-6- Marital Status
-7- Income Category
-8- Card Category 
-9- Total Relationship Count
-10- Credit Limit
-11- Total Revolving Balance
-12- Total Transactions Amount
-13- Total Transactions Count 
+1. Attrition Flag : if the customer exist or not 
+2.  Customer Age
+3. Gender
+4. Dependent count: number of dependent
+5. Education Level 
+6. Marital Status
+7. Income Category
+8. Card Category 
+9. Total Relationship Count
+10. Credit Limit
+11. Total Revolving Balance
+12. Total Transactions Amount
+13. Total Transactions Count 
 
 ## Insights
