@@ -29,3 +29,33 @@ dataset used in this project (bank customers) contains:
 13. Total Transactions Count 
 
 ## Insights
+
+* Attrition Flag :  The chart for the existing customer and attrited customer 
+the existing customer is about 7500 where the arrive is 1500.
+
+-----------------------
+
+* Card Category  :# insight : common type is 'BLUE' whish 
+is more than 8500 and the least is platinum.
+
+------------------------
+
+* Education level & Gender : in all Education level we have more male than female 
+and the highest category is the graduated and the least in the doctorate degree
+
+-----------------------
+
+* density of total transaction count & income category: 
+the 60k - 80k category has the highest density 
+where the 120k category has the lowest density
+
+------------------------
+
+* density of credit limit for each gender:
+the females has the highest density of credit limit than the males.
+
+------------------------ 
+
+* income category & avg transaction amount
+when the income category is less than 40k the males has the avg total transaction count between 45 and 60 
+and the females between 50 and 60 transactions and there is an outliers that is 190 count of the transactions****
