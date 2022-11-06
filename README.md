@@ -78,3 +78,9 @@ and the females between 50 and 60 transactions and there is an outliers that is 
 
 ------------------------ 
 
+* graphically demonstrating the locality
+shows that coustomer ages and gender destrbution is almost the same 
+
+------------------------
+* the heatmap chart 
+shows that the total transaction amount/ the avarage per transaction have the highst value which is 0.91
